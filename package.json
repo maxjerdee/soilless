@@ -12,7 +12,7 @@
     "nodemon": "^2.0.4"
   },
   "scripts": {
-    "watch": "nodemon ./start.js"
+    "start": "nodemon ./start.js"
   },
   "repository": {
     "type": "git",
